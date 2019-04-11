@@ -27,7 +27,8 @@ Python3 might be used with the code below.
 
 `python3 Movidius_USB.py`
 
-On the same code between Coral Accelerator and Movidius by using RPi.GPIO on Raspberry Pi and Arduino, here is the result below.
+
+Between Coral Accelerator and Movidius, with RPi.GPIO on Raspberry Pi for Arduino, here is the result below.
 
 <img width="300" alt="Screen Shot 2019-04-11 at 18 09 11" src="https://user-images.githubusercontent.com/42028366/55945176-3ae4f500-5c85-11e9-8239-274f82d18d22.png">
 
