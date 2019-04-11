@@ -22,6 +22,8 @@ Based on
 
 Python3 might be used with the code below.
 
+`source inference_engine_vpu_arm/bin/setupvars.sh`
+
 `python3 Movidius_USB.py`
 
 <img width="851" alt="Screen Shot 2019-04-11 at 16 11 44" src="https://user-images.githubusercontent.com/42028366/55940522-429f9c00-5c7b-11e9-9317-16959a022f6c.png">
